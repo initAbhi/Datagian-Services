@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "googleapis": "^148.0.0",
+    "selenium-webdriver": "^4.31.0"
+  }
+}

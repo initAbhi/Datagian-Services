@@ -1,0 +1,190 @@
+
+
+idap - 9b0e1d63-6d46-4945-a964-79d02ea2a52c - 
+Payable - No
+Reason -  [ 'NoPaymentMethodSelected' ]
+Number of payments made -  0
+======================================================================================================= 
+
+idap - 9b11bc4b-7907-41f8-bfad-0a2d306c817a - 
+Payable - No
+Reason -  [ 'NoPaymentMethodSelected' ]
+Number of payments made -  0
+======================================================================================================= 
+
+idap - 9b18ed80-fff4-48c8-8213-aeaa6035313d - 
+Payable - No
+Reason -  [ 'NoPaymentMethodSelected' ]
+Number of payments made -  0
+======================================================================================================= 
+
+idap - 9b3ab053-a76f-47d3-9d70-b173968826b0 - 
+Payable - No
+Reason -  [ 'NoPaymentMethodSelected' ]
+Number of payments made -  0
+======================================================================================================= 
+
+idap - 9b460884-47e1-431e-a0ff-77cbffb1259e - 
+Payable - No
+Reason -  [ 'NoPaymentMethodSelected' ]
+Number of payments made -  0
+======================================================================================================= 
+
+idap - 9b695371-0f5c-4065-99aa-245b943c834e - 
+Payable - No
+Reason -  [ 'NoPaymentMethodSelected' ]
+Number of payments made -  0
+======================================================================================================= 
+
+idap - 9b765bcb-1083-4e22-8355-5f356013118c - 
+Payable - No
+Reason -  [ 'NoPaymentMethodSelected' ]
+Number of payments made -  0
+======================================================================================================= 
+
+idap - 9bb2457e-1b77-4d2b-981d-7b79e5682961 - 
+Payable - No
+Reason -  [ 'NoPaymentMethodSelected' ]
+Number of payments made -  0
+======================================================================================================= 
+
+idap - 9bced8ba-6239-4a11-a0b1-e612b1dde2f2 - 
+Payable - No
+Reason -  [ 'NoPaymentMethodSelected' ]
+Number of payments made -  0
+======================================================================================================= 
+
+idap - 9bd3c9d1-0cd2-4f03-88e0-ccee0f52b211 - 
+Payable - No
+Reason -  [ 'NoPaymentMethodSelected' ]
+Number of payments made -  0
+======================================================================================================= 
+
+idap - 9bec28dc-6f4e-495f-81ad-e50618471be7 - 
+Payable - No
+Reason -  [ 'NoPaymentMethodSelected' ]
+Number of payments made -  0
+======================================================================================================= 
+
+idap - 9bf03036-e569-4e73-b519-995742249748 - 
+Payable - No
+Reason -  [ 'NoPaymentMethodSelected' ]
+Number of payments made -  3
+payments -
+4:02:54.547
+payment ref code -  603a5019e5b50 | Status -  Deferred | Payment method -   No PM | Date -  2021-02-27T13:58:53.303
+payment ref code -  60097662e1f36 | Status -  Rejected | Payment method -   PayPal | Date -  2021-01-21T12:41:11.267
+=======================================================================================================
+
+idap - 9bf53730-3202-46b7-bf28-6f01997636f8 -
+Payable - No
+Reason -  [ 'NoPaymentMethodSelected' ]
+Number of payments made -  0
+=======================================================================================================
+
+idap - 9c0c4bfb-2003-4646-a455-c8d5c7de6e3d -
+Payable - No
+Reason -  [ 'NoPaymentMethodSelected' ]
+Number of payments made -  2
+payments -
+payment ref code -  6379415707c12 | Status -  Deferred | Payment method -   No PM | Date -  2022-11-19T20:49:30.14 
+payment ref code -  637655e035771 | Status -  Rejected | Payment method -   PayPal | Date -  2022-11-17T15:40:19.653
+=======================================================================================================
+
+idap - 9c2cd3fe-7eff-4ae3-b832-d84af8b1164e -
+Payable - No
+Reason -  [ 'NoPaymentMethodSelected' ]
+Number of payments made -  0
+=======================================================================================================
+
+idap - 9c30038f-c60b-4873-bd4e-268a3f4b450b -
+Payable - No
+Reason -  [ 'NoPaymentMethodSelected' ]
+Number of payments made -  0
+=======================================================================================================
+
+idap - 9c3a1fd4-83fa-4004-a8fd-0a606e0e55fe - 
+Payable - No
+Reason -  [ 'NoPaymentMethodSelected' ]
+Number of payments made -  1
+payments -
+payment ref code -  65f88028d87b6 | Status -  Rejected | Payment method -   PayPal | Date -  2024-03-18T17:56:01.657
+=======================================================================================================
+
+idap - 9c4fed9d-2971-4a22-aa9c-b1e31ed0a707 - 
+Payable - No
+Reason -  [ 'NoPaymentMethodSelected' ]
+Number of payments made -  0
+=======================================================================================================
+
+idap - 9c92843c-c131-4517-adfb-4b81fcc3a999 - 
+Payable - No
+Reason -  [ 'NoPaymentMethodSelected' ]
+Number of payments made -  0
+=======================================================================================================
+
+idap - 9c9e8581-41a5-4674-9815-e9c8058aa9c4 - 
+Payable - No
+Reason -  [ 'NoPaymentMethodSelected' ]
+Number of payments made -  0
+=======================================================================================================
+
+idap - 9cafdb79-498f-423d-bddf-9b5213ba9f34 - 
+Payable - No
+Reason -  [ 'NoPaymentMethodSelected' ]
+Number of payments made -  0
+=======================================================================================================
+
+idap - 9cb79161-9006-4b89-b338-5f6061e74314 - 
+Payable - No
+Reason -  [ 'NoPaymentMethodSelected' ]
+Number of payments made -  0
+=======================================================================================================
+
+idap - 9cc16d33-2ee4-4383-b287-193d9587c2b9 - 
+Payable - No
+Reason -  [ 'NoPaymentMethodSelected' ]
+Number of payments made -  0
+=======================================================================================================
+
+idap - 9cca7277-ff82-40ef-b156-cf5faa3aead8 - 
+Payable - No
+Reason -  [ 'NoPaymentMethodSelected' ]
+Number of payments made -  0
+=======================================================================================================
+
+idap - 9cd139a9-a990-4e36-a262-95a70ede7a99 - 
+Payable - No
+Reason -  [ 'NoPaymentMethodSelected' ]
+Number of payments made -  0
+=======================================================================================================
+
+idap - 9cf157d5-5279-4a45-8fff-b28225295abb - 
+Payable - No
+Reason -  [ 'NoPaymentMethodSelected' ]
+Number of payments made -  0
+=======================================================================================================
+
+idap - 9cf77e08-3215-4d68-9c70-9f78095516e5 - 
+Payable - No
+Reason -  [ 'NoPaymentMethodSelected' ]
+Number of payments made -  0
+=======================================================================================================
+
+idap - 9d0adbe3-df6b-4a71-abc0-2d73a1011863 - 
+Payable - No
+Reason -  [ 'NoPaymentMethodSelected' ]
+Number of payments made -  0
+=======================================================================================================
+
+idap - 9d95983d-e26c-4761-ab4f-6ec0288d4e3f - 
+Payable - No
+Reason -  [ 'NoPaymentMethodSelected' ]
+Number of payments made -  0
+=======================================================================================================
+
+idap - 9da7b3cb-4a3b-419c-89a0-e6ce46acd42a - 
+Payable - No
+Reason -  [ 'NoPaymentMethodSelected' ]
+Number of payments made -  0
+=======================================================================================================
